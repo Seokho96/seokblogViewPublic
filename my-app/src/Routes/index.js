@@ -1,0 +1,11 @@
+export { default as Home } from '../Components/Home';
+export { default as Login } from '../Components/Login';
+export { default as About } from '../Components/About';
+export { default as Board } from '../Components/Board';
+export { default as MyBoard } from '../Components/MyBoard';
+export { default as MyPage } from '../Components/MyPage';
+export { default as Join } from '../Components/Join';
+export { default as BoardDetail } from '../Components/BoardDetail';
+export { default as Comment } from '../Components/Comment';
+export { default as PaperHouse} from '../Components/PaperHouse';
+export { default as SimpleFive} from '../Components/SimpleFive';
